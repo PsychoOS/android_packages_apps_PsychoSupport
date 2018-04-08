@@ -53,8 +53,4 @@
                 android:summary="@string/wake_when_plugged_or_unplugged_summary"
                 android:defaultValue="@*android:bool/config_unplugTurnsOnScreen" />
 
-     <com.android.settings.display.ThemePreference
-            android:key="theme"
-            android:title="@string/theme" />
-
 </PreferenceScreen>
